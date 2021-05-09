@@ -1,0 +1,49 @@
+﻿@page "/adult/{Id:int}"
+@page "/adult"
+
+<h3>Adult</h3>
+@if (_adultModel != null)
+{
+ <div class="d-flex container" style="justify-content: center;align-items: center">
+    <EditForm Model="@_adultModel" OnValidSubmit="@HandleValidSubmit">
+          <div class="" style="width: 60%">
+              <label>
+                  First Name
+              </label>
+              <InputText class="col-md-12" id="LastName"  @bind-Value="_adultModel.FirstName" />
+              <label>
+                  Last Name
+              </label>
+              <InputText class="col-md-12" id="LastName" @bind-Value="_adultModel.LastName" />
+              <label>
+                  Hair color
+              </label>
+              <InputText class="col-md-12" id="HairColor" @bind-Value="_adultModel.HairColor" />
+              <label>
+                  Eye Color
+              </label>
+              <InputText class="col-md-12" id="EyeColor" @bind-Value="_adultModel.EyeColor" />
+              <label>
+                  Age
+              </label>
+              <InputNumber class="col-md-12" style="display:block" id="Age" @bind-Value="_adultModel.Age" />
+              <label>
+                  Weight
+              </label>
+              <InputNumber class="col-md-12" id="Weight" @bind-Value="_adultModel.Weight" />
+              <label>
+                  Height
+              </label>
+              <InputNumber class="col-md-12" id="Height" @bind-Value="_adultModel.Height" />
+              <label>
+                  Sex
+              </label>
+              <InputText class="col-md-12" id="Sex" @bind-Value="_adultModel.Sex" />
+          </div>
+          <div class="row mt-5">
+              <button class="btn btn-outline-success ml-2 " type="submit" @onclick="Save">Save</button>
+              <button class="btn btn-outline-success ml-2 " type="submit" @onclick="Cancel">Cancel</button>
+          </div>
+      </EditForm>
+ </div>
+}

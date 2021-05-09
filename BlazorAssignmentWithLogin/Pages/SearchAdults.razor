@@ -1,0 +1,66 @@
+﻿@page "/adults"
+<h3> Type a name</h3>
+<div class="d-flex mb-5" style="width: 100%;justify-content: space-between;flex-direction: row">
+
+    <input @bind-value="_searchInputVal"
+            class="form-control" type="search"
+            placeholder="Search" aria-label="Search"
+            style="border-radius: 20px" />
+
+    <button class="btn btn-outline-success ml-2 "
+            type="submit" style="border-radius:20px;width: 150px;"
+            @onclick="Search">
+        Search
+    </button>
+    <AuthorizeView Policy="MustBeTeacherHigher4">
+        <button class="btn btn-outline-success ml-2 "
+            type="submit" style="border-radius:20px;width: 150px;"
+            @onclick="Add">
+        Add
+    </button>
+     </AuthorizeView>
+</div>
+
+
+@if (_val )
+{
+    <ul class="list-group">
+        @foreach(var adult in _adultList)
+        {
+            <li class="list-group-item" style="cursor: pointer">
+                <div class="d-flex" style="flex-direction: row; justify-content: space-between; align-items: center">
+                    @adult.FirstName @adult.LastName
+                    <AuthorizeView Policy="MustBeTeacher">
+                    <div class="d-flex" style="flex-direction: row">
+                        <button class="btn btn-outline-info btn-sm mr-3" @onclick="() => Edit(adult.Id)">Edit</button>
+                        <button class="btn btn-outline-info btn-sm mr-3" @onclick="() => View(adult.Id)">View</button>
+                        <button class="btn btn-outline-info btn-sm mr-3" @onclick="() => Delete(adult.Id)">Delete</button>
+
+                    </div>
+                     </AuthorizeView>
+                </div>
+                
+            </li>
+        }
+    </ul>
+}
+@if (!_val)
+{
+    <ul class="list-group">
+        
+        @foreach(var adult in _adultList)
+        {
+            <li class="list-group-item" style="">
+                @adult.FirstName @adult.LastName
+                <AuthorizeView Policy="MustBeTeacher">
+                                    <div class="d-flex" style="flex-direction: row">
+                                        <button class="btn btn-outline-info btn-sm mr-3" @onclick="() => Edit(adult.Id)">Edit</button>
+                                        <button class="btn btn-outline-info btn-sm mr-3" @onclick="() => View(adult.Id)">View</button>
+                                        <button class="btn btn-outline-info btn-sm mr-3" @onclick="() => Delete(adult.Id)">Delete</button>
+                                    </div>
+                                     </AuthorizeView>
+            </li>
+        }
+        
+    </ul>
+}

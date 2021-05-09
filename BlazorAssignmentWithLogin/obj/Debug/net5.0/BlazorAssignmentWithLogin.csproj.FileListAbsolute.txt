@@ -1,0 +1,180 @@
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\adults.json
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\appsettings.json
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.exe
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.deps.json
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.runtimeconfig.json
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.runtimeconfig.dev.json
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\ref\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.pdb
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.Views.dll
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.Views.pdb
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.csprojAssemblyReference.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.AssemblyInfoInputs.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.AssemblyInfo.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.csproj.CoreCompileInputs.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorComponent.input.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\AdultPage.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\AdultViewPage.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\SearchAdults.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\SecurityLevel.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorComponent.output.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.TagHelpers.input.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.TagHelpers.output.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorCoreGenerate.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\AdultPage.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\AdultViewPage.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\SearchAdults.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\SecurityLevel.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorAssemblyInfo.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorAssemblyInfo.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\staticwebassets\BlazorAssignmentWithLogin.StaticWebAssets.Manifest.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\staticwebassets\BlazorAssignmentWithLogin.StaticWebAssets.xml
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\scopedcss\bundle\BlazorAssignmentWithLogin.styles.css
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorTargetAssemblyInfo.cache
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorTargetAssemblyInfo.cs
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.Views.pdb
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.csproj.CopyComplete
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\ref\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.pdb
+C:\Users\alin\Desktop\Dnp\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.genruntimeconfig.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\adults.json
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\appsettings.json
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\BlazorAssignmentWithLogin.exe
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\BlazorAssignmentWithLogin.deps.json
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\BlazorAssignmentWithLogin.runtimeconfig.json
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\BlazorAssignmentWithLogin.runtimeconfig.dev.json
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\ref\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\BlazorAssignmentWithLogin.pdb
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\BlazorAssignmentWithLogin.Views.dll
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\BlazorAssignmentWithLogin.Views.pdb
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.csprojAssemblyReference.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.AssemblyInfoInputs.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.AssemblyInfo.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.csproj.CoreCompileInputs.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorComponent.input.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\Pages\AdultPage.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\Pages\AdultViewPage.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\Pages\SearchAdults.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\Pages\SecurityLevel.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorComponent.output.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\RazorDeclaration\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.TagHelpers.input.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.TagHelpers.output.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorCoreGenerate.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Pages\AdultPage.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Pages\AdultViewPage.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Pages\SearchAdults.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Pages\SecurityLevel.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorAssemblyInfo.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorAssemblyInfo.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\staticwebassets\BlazorAssignmentWithLogin.StaticWebAssets.Manifest.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\staticwebassets\BlazorAssignmentWithLogin.StaticWebAssets.xml
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\scopedcss\bundle\BlazorAssignmentWithLogin.styles.css
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorTargetAssemblyInfo.cache
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorTargetAssemblyInfo.cs
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.Views.pdb
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.csproj.CopyComplete
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\ref\BlazorAssignmentWithLogin.dll
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.pdb
+C:\Users\alin\Desktop\BlazorAssignmentWithLogin\BlazorAssignmentWithLogin-main\BlazorAssignmentWithLogin-main\obj\Debug\net5.0\BlazorAssignmentWithLogin.genruntimeconfig.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\adults.json
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\appsettings.json
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.exe
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.deps.json
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.runtimeconfig.json
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.runtimeconfig.dev.json
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.dll
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\ref\BlazorAssignmentWithLogin.dll
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.pdb
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.Views.dll
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\BlazorAssignmentWithLogin.Views.pdb
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.csprojAssemblyReference.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.AssemblyInfoInputs.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.AssemblyInfo.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.csproj.CoreCompileInputs.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorComponent.input.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\AdultPage.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\AdultViewPage.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\SearchAdults.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Pages\SecurityLevel.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorComponent.output.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\RazorDeclaration\BlazorAssignmentWithLogin.dll
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.TagHelpers.input.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.TagHelpers.output.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorCoreGenerate.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\AdultPage.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\AdultViewPage.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\SearchAdults.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\SecurityLevel.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorAssemblyInfo.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorAssemblyInfo.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\staticwebassets\BlazorAssignmentWithLogin.StaticWebAssets.Manifest.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\staticwebassets\BlazorAssignmentWithLogin.StaticWebAssets.xml
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\scopedcss\bundle\BlazorAssignmentWithLogin.styles.css
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorTargetAssemblyInfo.cache
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.RazorTargetAssemblyInfo.cs
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.Views.pdb
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.csproj.CopyComplete
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.dll
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\ref\BlazorAssignmentWithLogin.dll
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.pdb
+C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWithLogin\obj\Debug\net5.0\BlazorAssignmentWithLogin.genruntimeconfig.cache

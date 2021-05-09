@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Flavius-Alin\\Desktop\\School\\Dnp\\Assignments\\Assignment 2\\DNPAssignment2-master\\DNPAssignment2-master\\BlazorAssignmentWebApplication\\BlazorAssignmentWebApplication.csproj": {}
+    "C:\\Users\\alin\\Desktop\\DNPassignment3\\BlazorAssignmentWebApplication\\BlazorAssignmentWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Flavius-Alin\\Desktop\\School\\Dnp\\Assignments\\Assignment 2\\DNPAssignment2-master\\DNPAssignment2-master\\BlazorAssignmentWebApplication\\BlazorAssignmentWebApplication.csproj": {
+    "C:\\Users\\alin\\Desktop\\DNPassignment3\\BlazorAssignmentWebApplication\\BlazorAssignmentWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Flavius-Alin\\Desktop\\School\\Dnp\\Assignments\\Assignment 2\\DNPAssignment2-master\\DNPAssignment2-master\\BlazorAssignmentWebApplication\\BlazorAssignmentWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\alin\\Desktop\\DNPassignment3\\BlazorAssignmentWebApplication\\BlazorAssignmentWebApplication.csproj",
         "projectName": "BlazorAssignmentWebApplication",
-        "projectPath": "C:\\Users\\Flavius-Alin\\Desktop\\School\\Dnp\\Assignments\\Assignment 2\\DNPAssignment2-master\\DNPAssignment2-master\\BlazorAssignmentWebApplication\\BlazorAssignmentWebApplication.csproj",
-        "packagesPath": "C:\\Users\\Flavius-Alin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Flavius-Alin\\Desktop\\School\\Dnp\\Assignments\\Assignment 2\\DNPAssignment2-master\\DNPAssignment2-master\\BlazorAssignmentWebApplication\\obj\\",
+        "projectPath": "C:\\Users\\alin\\Desktop\\DNPassignment3\\BlazorAssignmentWebApplication\\BlazorAssignmentWebApplication.csproj",
+        "packagesPath": "C:\\Users\\alin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alin\\Desktop\\DNPassignment3\\BlazorAssignmentWebApplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Flavius-Alin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,6 +57,12 @@
               "target": "Package",
               "version": "[5.0.5, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -81,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

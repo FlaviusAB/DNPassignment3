@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Family.db" uuid="6289b327-f4d9-480d-975b-4b8949a4cddf">
+    <data-source source="LOCAL" name="Family.db" uuid="be00f119-7f53-41f1-8485-b4084f6a7b26">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:identifier.sqlite</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="Family.db [2]" uuid="6b504a6b-b0d5-4ba8-bd27-b7a093bb5751">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\Users\Flavius-Alin\Desktop\School\Dnp\Assignments\Assignment 2\DNPAssignment2-master\DNPAssignment2-master\BlazorAssignmentWebApplication\Family.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\alin\Desktop\DNPassignment3\BlazorAssignmentWebApplication\Family.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

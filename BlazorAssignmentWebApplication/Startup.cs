@@ -1,17 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using BlazorAssignmentWebApplication.Data.Persistence;
+using BlazorAssignmentWebApplication.repository;
+using BlazorAssignmentWebApplication.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
 namespace BlazorAssignmentWebApplication
@@ -30,11 +25,18 @@ namespace BlazorAssignmentWebApplication
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            //services.AddSingleton<IFileContext, FileContext>();
-            services.AddDbContext<DatabaseContext>(options =>
+            services.AddScoped<IAdultRepo, AdultRepo>();
+            services.AddScoped<IAdultService, AdultService>();
+            
+            services.AddDbContextFactory<DatabaseContext>(options =>
             {
-                options.UseSqlite(_config.GetConnectionString("DefaultConnection"));
+                options.UseSqlite(Configuration.GetConnectionString("Default"));
             });
+
+            services.AddScoped<DatabaseContext>(p => 
+                p.GetRequiredService<IDbContextFactory<DatabaseContext>>()
+                    .CreateDbContext());
+            
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "BlazorAssignmentWebApplication", Version = "v1"});

@@ -1,12 +1,9 @@
 ﻿
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using BlazorAssignmentWebApplication.Data.Model;
-using BlazorAssignmentWebApplication.Data.Persistence;
-using Microsoft.AspNetCore.Components;
+using BlazorAssignmentWebApplication.Service;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace BlazorAssignmentWebApplication.Controllers
 {
@@ -14,52 +11,47 @@ namespace BlazorAssignmentWebApplication.Controllers
     [Microsoft.AspNetCore.Mvc.Route("[controller]")]
     public class AdultsController : ControllerBase
     {
-        private readonly IFileContext _fileContextProvider;
-        
-        private IList<Adult> _adultList;
 
-        public AdultsController(IFileContext fileContext)
+        private readonly IAdultService _adultService;
+        
+
+        public AdultsController(IAdultService adultService)
         {
-            _fileContextProvider = fileContext;
+            _adultService = adultService;
         }
 
         [HttpGet]
-        public IList<Adult> Get()
+        public async Task<ActionResult<IReadOnlyCollection<Adult>>> GetAll()
         {
-            _adultList = _fileContextProvider.Adults;
-            
-            return _adultList;
+            var adultList = await _adultService.GetAllAdults();
+            return Ok(adultList);
         }
 
         [HttpPost]
         public async Task<ActionResult> AddAdult(Adult adult)
         {
         
-            _fileContextProvider.Adults.Add(adult);
-            return NoContent();
+            await _adultService.Create(adult);
+            return Ok();
         }
         [HttpPut]
         public async Task<ActionResult> EditAdult(Adult adult)
         {
-            var existingAdult = _fileContextProvider.Adults.FirstOrDefault(x => x.Id == adult.Id);
-            _fileContextProvider.Adults.Remove(existingAdult);
-            _fileContextProvider.Adults.Add(adult);
-            _fileContextProvider.SaveChanges();
-            return Ok(adult);
+            await _adultService.Update(adult);
+            return Ok();
         }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<Adult>> GetAdult(int id)
         {
-            var existingAdult = _fileContextProvider.Adults.FirstOrDefault(x => x.Id == id);
-            return Ok(existingAdult);
+            var adult = await _adultService.Read(id);
+            return Ok(adult);
         }
 
         [HttpDelete("{id}")]
         public async Task<ActionResult> DeleteAdult(int id)
         {
-            var existingAdult =  _fileContextProvider.Adults.FirstOrDefault(x => x.Id == id);
-            _fileContextProvider.Adults.Remove(existingAdult);
+            await _adultService.Delete(id);
             return Ok();
         }
         
